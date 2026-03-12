@@ -1,0 +1,9 @@
+OK_FORMAT = True
+
+test = {   'name': 'q3_1',
+    'points': [5, 5],
+    'suites': [   {   'cases': [{'code': '>>> sum_scores(2, 3, 6, 1)\n12', 'hidden': False, 'locked': False}, {'code': '>>> sum_scores(-2, 3, 5, -10)\n-4', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
